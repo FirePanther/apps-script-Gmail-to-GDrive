@@ -10,8 +10,8 @@ Set the path of your (already existing) target folder (where the subfolders
 should be created and the attachments downloaded).
 Run the function "parseAttachments". If the script finishes too fast (it
 should run a few minutes at least) check the Error Logs (ctrl/cmd + enter).
-If you get an error message, like "maximum time exceeded", just run the
-script again, the first download takes too long, cause it's downloading
+If you get an error message, like "Exceeded maximum execution time", just run
+the script again, the initial download takes too long, cause it's downloading
 attachments of your mails up to one year old.
 
 # Trigger
