@@ -1,5 +1,5 @@
 /**
- * @author           Suat Secmen (http://suat.be)
+ * @author           Suat Secmen (http://su.at)
  * @copyright        2016 Suat Secmen
  * @license          GNU GENERAL PUBLIC LICENSE <https://github.com/FirePanther/apps-script-Gmail-to-GDrive/blob/master/LICENSE>
  */
